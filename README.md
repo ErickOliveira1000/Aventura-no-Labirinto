@@ -152,7 +152,7 @@ Aventura-no-Labirinto/
 
 ## 🧑‍💻 Autor
 
-Feito por [Erick Oliveira](https://github.com/seuusuario) com dedicação, para fins educacionais.
+Feito por [Erick Oliveira](https://github.com/ErickOliveira1000/Aventura-no-Labirinto) com dedicação, para fins educacionais.
 
 "Estou satisfeito por conseguir finalizar esse projeto, espero que seja divertido e emocionante para todos os usuários."
 
