@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+
+# VSCode
+.vscode/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# HTMLs de documentação (gerados automaticamente)
+aventura_pkg.html
+
+# Logs e backups
+*.log
+*.bak
+*.tmp
+
