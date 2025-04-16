@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🧹 Aventura no Labirinto
 
 Um jogo de terminal em Python onde você navega por labirintos usando o teclado. Com suporte a sons, cores, níveis de dificuldade e animações visuais no terminal.
@@ -155,3 +156,4 @@ Feito por [Erick Oliveira](https://github.com/seuusuario) com dedicação, para 
 
 "Estou satisfeito por conseguir finalizar esse projeto, espero que seja divertido e emocionante para todos os usuários."
 
+=======
